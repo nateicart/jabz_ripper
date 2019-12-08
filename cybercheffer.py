@@ -3,6 +3,7 @@ import re
 from chepy import Chepy
 from typing import List
 
+# Author Nate Icart
 # Sample 42ba370427c163b0f3fd56111b42841a8ab0a876e77425d480df143d6f32b1ea
 
 directory = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
